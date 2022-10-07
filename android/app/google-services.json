@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "53000910996",
+    "project_id": "manypaw-d9a45",
+    "storage_bucket": "manypaw-d9a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53000910996:android:351810b1a30ae752f25c81",
+        "android_client_info": {
+          "package_name": "com.ansin.manypaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53000910996-5486irfvr6hs880jlk98m3ihvodls3s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIRgn3cyLSBMO6a5AQ4V7cvnGnPxx9Gtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53000910996-5486irfvr6hs880jlk98m3ihvodls3s5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53000910996-ham30cunc37t8f0kr4jljs8bvqb2qfol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ansin.manypaw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
